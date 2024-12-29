@@ -1,0 +1,6 @@
+@GloboTicket.TicketManagement.Api_HostAddress = http://localhost:5047
+
+GET {{GloboTicket.TicketManagement.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

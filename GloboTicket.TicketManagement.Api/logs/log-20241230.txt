@@ -1,0 +1,5 @@
+2024-12-30 00:28:27.184 +02:00 [INF] Now listening on: https://localhost:7251
+2024-12-30 00:28:27.202 +02:00 [INF] Now listening on: http://localhost:5047
+2024-12-30 00:28:27.228 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-12-30 00:28:27.230 +02:00 [INF] Hosting environment: Development
+2024-12-30 00:28:27.233 +02:00 [INF] Content root path: D:\C# Projects\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Api

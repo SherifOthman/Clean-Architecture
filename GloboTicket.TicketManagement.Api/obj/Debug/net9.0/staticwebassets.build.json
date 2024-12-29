@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "OlbP3ETHhLMiQlQ3xxMnWzHbUcRZrL0MoLB9/FGfgJc=",
+  "Source": "GloboTicket.TicketManagement.Api",
+  "BasePath": "_content/GloboTicket.TicketManagement.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

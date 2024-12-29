@@ -1,0 +1,5 @@
+C:\Users\huawe\OneDrive\سطح المكتب\asp-dot-net-core-6-clean-architecture\09\demos\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Identity\obj\Debug\net8.0\GloboTicket.TicketManagement.Identity.csproj.AssemblyReference.cache
+C:\Users\huawe\OneDrive\سطح المكتب\asp-dot-net-core-6-clean-architecture\09\demos\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Identity\obj\Debug\net8.0\GloboTicket.TicketManagement.Identity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huawe\OneDrive\سطح المكتب\asp-dot-net-core-6-clean-architecture\09\demos\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Identity\obj\Debug\net8.0\GloboTicket.TicketManagement.Identity.AssemblyInfoInputs.cache
+C:\Users\huawe\OneDrive\سطح المكتب\asp-dot-net-core-6-clean-architecture\09\demos\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Identity\obj\Debug\net8.0\GloboTicket.TicketManagement.Identity.AssemblyInfo.cs
+C:\Users\huawe\OneDrive\سطح المكتب\asp-dot-net-core-6-clean-architecture\09\demos\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Identity\obj\Debug\net8.0\GloboTicket.TicketManagement.Identity.csproj.CoreCompileInputs.cache

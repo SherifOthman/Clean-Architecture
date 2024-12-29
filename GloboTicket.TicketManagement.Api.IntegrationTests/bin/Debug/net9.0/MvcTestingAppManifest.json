@@ -1,0 +1,8 @@
+{
+  "GloboTicket.TicketManagement.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\C# Projects\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Api",
+  "GloboTicket.TicketManagement.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\C# Projects\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Application",
+  "GloboTicket.TicketManagement.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\C# Projects\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Domain",
+  "GloboTicket.TicketManagement.Identity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\huawe\\OneDrive\\سطح المكتب\\asp-dot-net-core-6-clean-architecture\\09\\demos\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Identity",
+  "GloboTicket.TicketManagement.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\C# Projects\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Infrastructure",
+  "GloboTicket.TicketManagement.Persistence, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\C# Projects\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Persistence"
+}

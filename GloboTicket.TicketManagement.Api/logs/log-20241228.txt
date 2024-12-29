@@ -1,0 +1,15 @@
+2024-12-28 03:15:55.766 +02:00 [INF] Now listening on: https://localhost:7251
+2024-12-28 03:15:55.825 +02:00 [INF] Now listening on: http://localhost:5047
+2024-12-28 03:15:55.918 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-12-28 03:15:55.920 +02:00 [INF] Hosting environment: Development
+2024-12-28 03:15:55.924 +02:00 [INF] Content root path: D:\C# Projects\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Api
+2024-12-28 03:43:28.950 +02:00 [INF] Now listening on: https://localhost:7251
+2024-12-28 03:43:28.984 +02:00 [INF] Now listening on: http://localhost:5047
+2024-12-28 03:43:29.054 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-12-28 03:43:29.055 +02:00 [INF] Hosting environment: Development
+2024-12-28 03:43:29.065 +02:00 [INF] Content root path: D:\C# Projects\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Api
+2024-12-28 03:44:07.747 +02:00 [INF] Now listening on: https://localhost:7251
+2024-12-28 03:44:07.780 +02:00 [INF] Now listening on: http://localhost:5047
+2024-12-28 03:44:07.840 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-12-28 03:44:07.844 +02:00 [INF] Hosting environment: Development
+2024-12-28 03:44:07.847 +02:00 [INF] Content root path: D:\C# Projects\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Api
